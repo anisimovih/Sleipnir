@@ -34,6 +34,10 @@
 
 ----
 
+## Fork reason
+
+The latest updates to the main repository make it impossible to reproduce even a basic example from the README.
+
 ## Why
 
 After surveying the landscape of graph frameworks for Unity for the past few years 
@@ -132,7 +136,7 @@ private static void CreateSampleGraph()
 In *Package Manager* click *Add package from git URL* and use the following:
 
 ```
-https://github.com/red-owl-games/Sleipnir.git
+https://github.com/anisimovih/Sleipnir.git
 ```
 
 ### Things to checkout
